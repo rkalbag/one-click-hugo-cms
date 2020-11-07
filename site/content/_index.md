@@ -1,7 +1,7 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: TechnoPioneer Consulting Services
+subtitle: Make OUR expertise work for YOU
+image: img/c3v88boorom-bench-accounting.webp
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
