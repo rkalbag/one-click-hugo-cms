@@ -3,11 +3,9 @@ title: TechnoPioneer Consulting Services
 subtitle: Make OUR expertise work for YOU
 image: img/c3v88boorom-bench-accounting.webp
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Why Us?
+  text: "We always keep your needs front and center and strive to exceed your
+    expectations. "
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
