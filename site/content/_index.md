@@ -1,5 +1,5 @@
 ---
-title: TechnoPioneer Consulting Services
+title: TechnoPioneer Consulting
 subtitle: Make OUR expertise work for YOU
 image: img/c3v88boorom-bench-accounting.webp
 blurb:
