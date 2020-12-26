@@ -1,45 +1,28 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: Our Team
+image: img/profile.png
 values:
-  - heading: "Shade-grown coffee"
-    text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
-    text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+  - imageUrl: img/cropped.png
+    text: >-
+      Rohit Kalbag has held multiple leadership roles within the
+      telecommunications industry over a career spanning 20 years. He has more
+      than 20 patents to his name and has made significant contributions to
+      cellular standards. In his most recent role as the technical leader of
+      Verizon Wireless' Innovation  Program, his team's mission was to quickly
+      prototype and run proof-of-concepts for new ideas and technologies;
+      fast-track device certification of VIP startup partner’s innovative
+      M2M/IoT devices by providing technical consulting and testing their
+      cellular integration in device certification labs; ensure pre-launch
+      devices interoperate with the latest LTE enhancements utilizing
+      Interoperability labs.
+
+
+      Prior to his work with Verizon Innovation Program, Rohit held multiple leadership roles in product development, product marketing, and product management.
+
+
+      He is now a consultant often engaged full-time in product marketing, development, and management roles. He is on the technical expert team of Sandstorm Ventures,  AlphaSights, and ThirdBridge Group.
+
+
+      Rohit graduated with an M.S. in Computer Science from the University of Missouri and holds advanced certifications in product design, marketing, and entrepreneurship. He is also a certified SCRUM Product Owner, an AWS Certified Solutions Architect - Associate, and Salesforce Certified Administrator.
+    heading: Rohit Kalbag (Founder)
 ---
