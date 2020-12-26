@@ -1,13 +1,11 @@
 ---
-title: "Contact"
+title: "GET IN TOUCH..."
 logo: "/img/cover.png"
 contact_entries:
   - heading: email
     text: "contact@technopioneer.com"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+To arrange a consultation or to discuss your project, send us a message
 
 We look forward to your email.

@@ -9,17 +9,8 @@ values:
 
 ---
 
-Rohit Kalbag has held multiple leadership roles within the
-telecommunications industry over a career spanning 20 years. He has more
-than 20 patents to his name and has made significant contributions to
-cellular standards. In his most recent role as the technical leader of
-Verizon Wireless' Innovation  Program, his team's mission was to quickly
-prototype and run proof-of-concepts for new ideas and technologies;
-fast-track device certification of VIP startup partner’s innovative
-M2M/IoT devices by providing technical consulting and testing their
-cellular integration in device certification labs; ensure pre-launch
-devices interoperate with the latest LTE enhancements utilizing
-Interoperability labs.
+<a href="https://www.linkedin.com/in/rkalbag/">Rohit Kalbag</a> has held multiple leadership roles within the telecommunications industry over a career spanning 20 years. He has more than 20 patents to his name and has made significant contributions to
+cellular standards. In his most recent role as the technical leader of Verizon Wireless' Innovation  Program, his team's mission was to quickly prototype and run proof-of-concepts for new ideas and technologies; fast-track device certification of VIP startup partner’s innovative M2M/IoT devices by providing technical consulting and testing their cellular integration in device certification labs; ensure pre-launch devices interoperate with the latest LTE enhancements utilizing Interoperability labs.
 
 
 Prior to his work with Verizon Innovation Program, Rohit held multiple leadership roles in product development, product marketing, and product management.
