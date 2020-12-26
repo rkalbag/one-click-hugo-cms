@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/cover.png
+logo: "/img/cover.png"
 contact_entries:
   - heading: email
     text: "contact@technopioneer.com"
