@@ -3,7 +3,6 @@ title: Our Team
 image: img/profile.png
 values:
   - imageUrl: img/cropped.png
-    text: ""
     heading: Rohit Kalbag (Founder)
 
 
