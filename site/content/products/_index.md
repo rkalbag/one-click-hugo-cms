@@ -1,6 +1,6 @@
 ---
 title: Instant Feedback
-image: /img/products-jumbotron.jpg
+image: img/questionnaire-jumbotron.png
 heading: "Instant Feedback: Empower Customers to Share Their Voice Anytime"
 description: "Customer satisfaction surveys have a fatal flaw: they are usually
   sent after the completion of a transaction when it is too late to change the
@@ -8,33 +8,26 @@ description: "Customer satisfaction surveys have a fatal flaw: they are usually
   outcomes with this Salesforce Application."
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: img/opendoor.png
+      text: "Open feedback channel: Skip the hassle of sending out questionnaires and
+        surveys by using Instant Feedback links in email signatures, chat
+        messages, and support ticket responses. Gather quick feedback from your
+        customers using your Salesforce Site."
+    - image: img/noun_420960_cc.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
+        Unlock Team Performance: Gain invaluable insights into your team's
+        performance through average customer ratings (1-5 stars), empowering
+        support and sales managers to drive improvements.
+    - image: img/intervention.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
+        Proactive Intervention: Swiftly identify and address areas of concern
+        with real-time alerts, ensuring poor feedback doesn't jeopardize your
+        business relationships.
+    - image: img/noun_566404_cc.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Complete Control: Maintain full control over collected data and
+        permissions, empowering you with the authority to manage and govern your
+        feedback system.
   heading: "Instant Feedback "
   description: >+
     Customer satisfaction surveys have a fatal flaw: they are usually sent after
