@@ -33,7 +33,7 @@
 <!--  ----------------------------------------------------------------------  -->
 <!--  NOTE: Please add the following <FORM> element to your page.             -->
 <!--  ----------------------------------------------------------------------  -->
-
+<div class="mb4">
 <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00DHo000001yw1I" method="POST">
 
 <input type=hidden name='captcha_settings' value='{"keyname":"tech_captcha","fallback":"true","orgId":"00DHo000001yw1I","ts":""}'>
@@ -47,21 +47,59 @@
 <!--  <input type="hidden" name="debugEmail"                                  -->
 <!--  value="rohit@technopioneer.com">                                        -->
 <!--  ----------------------------------------------------------------------  -->
+	<!-- Contact -->
 
-<label for="first_name">First Name</label><input  id="first_name" maxlength="40" name="first_name" size="20" type="text" /><br>
+ 
+    <div class="flex-l mhn1-l">
+      <!-- Name -->
+      <div class="ph1-l w-50-l">
+        <fieldset>
+          <input type="text" id="first_name" name="first_name" placeholder="First Name" class="w-100 mb2">
+          <label for="first_name">First Name</label>
+        </fieldset>
+      </div>
+	    <!-- Name -->
+      <div class="ph1-l w-50-l">
+        <fieldset>
+          <input type="text" id="last_name" name="last_name" placeholder="Last Name" class="w-100 mb2">
+          <label for="last_name">Last Name</label>
+        </fieldset>
+      </div>
+      <!-- Email -->
+      <div class="ph1-l w-50-l">
+        <fieldset>
+          <input type="email" id="email" name="email" placeholder="Email" class="w-100 mb2">
+          <label for="email">Email</label>
+        </fieldset>
+      </div>
+    </div>
 
-<label for="last_name">Last Name</label><input  id="last_name" maxlength="80" name="last_name" size="20" type="text" /><br>
+	<!-- Company -->
+      <div class="ph1-l w-50-l">
+        <fieldset>
+          <input type="company" id="company" name="company" placeholder="Company" class="w-100 mb2">
+          <label for="company">Company</label>
+        </fieldset>
+      </div>
+    </div>
 
-<label for="email">Email</label><input  id="email" maxlength="80" name="email" size="20" type="text" /><br>
+    <!-- Message -->
+    <fieldset>
+      <textarea id="description" name="description" placeholder="Your message" rows="8" cols="80" class="w-100"></textarea>
+      <label for="description">Your message</label>
+    </fieldset>
+		<div class="g-recaptcha" data-sitekey="6LexwFQUAAAAAB_iSDYJ-tvXENlCJJ-U60Z5EINH"></div><br>
+    <!-- Button -->
+    <div class="tc">
+      <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
+    </div>
+  </form>
+</div>
 
-<label for="company">Company</label><input  id="company" maxlength="40" name="company" size="20" type="text" /><br>
 
-<label for="description">Message</label><textarea name="description"></textarea><br>
 
-<div class="g-recaptcha" data-sitekey="6LexwFQUAAAAAB_iSDYJ-tvXENlCJJ-U60Z5EINH"></div><br>
-<input type="submit" name="submit">
 
-</form>
+
 	</div>
 </div>
 
