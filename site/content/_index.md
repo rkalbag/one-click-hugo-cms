@@ -16,9 +16,9 @@ intro:
     competitive analysis.
 products:
   - image: img/noun_1608472_cc.png
-    text: "PRODUCT MARKETING: We can develop your web presence, and provide all the
-      artifacts for content marketing. We can create technical product data
-      sheets, whitepapers, and other product collateral."
+    text: "PRODUCT MARKETING: We can provide all the artifacts for content
+      marketing. We can create technical product data sheets, whitepapers, and
+      other product collateral."
   - image: img/noun_566404_cc.png
     text: "PROCESS ENGINEERING: Process documentation, optimization, and even
       automation; we do it all. We specialize in Salesforce."
@@ -26,14 +26,6 @@ products:
       engineering expertise are most sought after by our clients. We can assist
       in any phase of product development."
     image: img/noun_748483_cc.png
-  - text: "INNOVATION PROGRAMS: We can help you grow your innovation pipeline by
-      either promoting internal innovation or building partnerships with
-      startups."
-    image: img/noun_424264_cc.png
-  - text: "COMPETITIVE ANALYSIS: Always keep your competitors on your radar by
-      subscribing to our customized quarterly competitive reports tailored
-      specifically for your service."
-    image: img/noun_420960_cc.png
 values:
   heading: " "
   text: " "
