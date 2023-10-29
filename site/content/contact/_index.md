@@ -6,6 +6,6 @@ contact_entries:
     text: "contact@technopioneer.com"
 ---
 
-To arrange a consultation or to discuss your project, send us a message
+To arrange a consultation or to discuss your project, send us a message using the form on this page.
 
-We look forward to your email.
+
