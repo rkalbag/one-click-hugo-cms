@@ -6,6 +6,18 @@
 		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
 
 		{{ .Content }}
+
+
+
+		<div class="flex-ns mb3">
+	        	{{ range .Params.contact_entries }}
+				<div>
+					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
+					<p>{{ .text }}</p>
+				</div>
+			{{ end }}
+		</div>
+
 		<!--  ----------------------------------------------------------------------  -->
 <!--  NOTE: Please add the following <META> element to your page <HEAD>.      -->
 <!--  If necessary, please modify the charset parameter to specify the        -->
@@ -50,18 +62,6 @@
 <input type="submit" name="submit">
 
 </form>
-
-
-		<div class="flex-ns mb3">
-	        	{{ range .Params.contact_entries }}
-				<div>
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
-				</div>
-			{{ end }}
-		</div>
-
-
 	</div>
 </div>
 
