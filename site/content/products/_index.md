@@ -35,12 +35,10 @@ intro:
     Gather feedback during every customer interaction and drive positive outcomes by using our Salesforce Application.
 
 main:
-  heading: Great coffee with no compromises
+  heading: Instant Feedback is available on Salesforce
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Instant feedback is built on the latest Lightning Web Component (LWC) technology to ensure a seamless and modern user experience.
+    Instant Feedback is available on Salesforce AppExchange.
     
 type: products
 ---
