@@ -1,0 +1,84 @@
+{{ define "main" }}
+<div class="ph3 bg-off-white">
+  <div class="center mw6 pv3">
+    <img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
+    {{ .Content }}
+    <div class="flex-ns mb3">
+      {{ range .Params.contact_entries }}
+      <div>
+        <h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
+        <p>{{ .text }}</p>
+      </div>
+      {{ end }}
+    </div>
+    <!--  ----------------------------------------------------------------------  -->
+    <!--  NOTE: Please add the following <META> element to your page <HEAD>.      -->
+    <!--  If necessary, please modify the charset parameter to specify the        -->
+    <!--  character set of your HTML page.                                        -->
+    <!--  ----------------------------------------------------------------------  -->
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script>
+ function timestamp() { var response = document.getElementById("g-recaptcha-response"); if (response == null || response.value.trim() == "") {var elems = JSON.parse(document.getElementsByName("captcha_settings")[0].value);elems["ts"] = JSON.stringify(new Date().getTime());document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems); } } setInterval(timestamp, 500); 
+</script>
+    <!--  ----------------------------------------------------------------------  -->
+    <!--  NOTE: Please add the following <FORM> element to your page.             -->
+    <!--  ----------------------------------------------------------------------  -->
+    <div class="mb4">
+<form action="https://webto.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8&orgId=00DHo000001yw1I" method="POST">
+
+<input type=hidden name='captcha_settings' value='{"keyname":"tech_captcha","fallback":"true","orgId":"00DHo000001yw1I","ts":""}'>
+<input type=hidden name="orgid" value="00DHo000001yw1I">
+<input type=hidden name="retURL" value="https://www.technopioneer.com/thanks/">
+        <!--  ----------------------------------------------------------------------  -->
+        <!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
+        <!--  these lines if you wish to test in debug mode.                          -->
+        <!-- <input type="hidden" name="debug" value=1>                               -->
+        <!-- <input type="hidden" name="debugEmail" value="rohit@technopioneer.com">  -->
+        <!--  ----------------------------------------------------------------------  -->
+        <!-- Contact -->
+        <div class="flex-l mhn1-l">
+          <!-- Name -->
+          <div class="ph1-l w-50-l">
+            <fieldset>
+              <input type="text" id="name" name="name" placeholder="Name" class="w-100 mb2">
+              <label for="name">Name</label>
+            </fieldset>
+          </div>
+          <!-- Email -->
+          <div class="ph1-l w-50-l">
+            <fieldset>
+              <input type="email" id="email" name="email" placeholder="Email" class="w-100 mb2">
+              <label for="email">Email</label>
+            </fieldset>
+          </div>
+        </div>
+        <!-- Company -->
+        <div class="ph1-l w-50-l">
+          <fieldset>
+            <input type="company" id="company" name="company" placeholder="Company" class="w-100 mb2">
+            <label for="company">Company</label>
+          </fieldset>
+        </div>
+   <!-- Subject -->
+         <div class="ph1-l w-50-l">
+          <fieldset>
+            <input type="subject" id="subject" name="subject" placeholder="Subject" class="w-100 mb2">
+            <label for="subject">Subject</label>
+          </fieldset>
+        </div>
+        <!-- Message -->
+        <fieldset>
+          <textarea id="description" name="description" placeholder="Your message" rows="8" cols="80" class="w-100"></textarea>
+          <label for="description">Your message</label>
+        </fieldset>
+        <div class="g-recaptcha" data-sitekey="6LexwFQUAAAAAB_iSDYJ-tvXENlCJJ-U60Z5EINH"></div>
+        <br>
+        <!-- Button -->
+        <div class="tc">
+          <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+{{ end }}
