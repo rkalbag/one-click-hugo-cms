@@ -39,18 +39,8 @@ main:
   description: >
     Instant feedback is built on the latest Lightning Web Component (LWC)
     technology to ensure a seamless and modern user experience. Instant Feedback
-    is available on [Salesforce
-    AppExchange](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N4V00000IrJowUAF).
-  image1:
-    image: img/safari-pinned-tab.svg
-    alt: as
-  image2:
-    image: img/safari-pinned-tab.svg
-    alt: as
-  image3:
-    image: img/safari-pinned-tab.svg
-    alt: as
-full_image: img/safari-pinned-tab.svg
+    is available on Salesforce AppExchange.
+ 
 pricing:
   heading: Pricing
   description: You start with a 30-day FREE trial for 10 Users.
