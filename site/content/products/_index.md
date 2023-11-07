@@ -50,8 +50,6 @@ pricing:
       description: USD/user/month
     - plan: Yearly
       price: "24"
-      description: USD/user/year
-      items:
-        - 20% discount over Monthly plan
+      description: USD/user/year 20% discount over Monthly plan
 type: products
 ---
