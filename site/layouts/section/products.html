@@ -5,14 +5,13 @@
 {{ partial "4-up" .Params.intro }}
 
 
- {{ with .Params.main }}
+{{ with .Params.main }}
 <div class="mw7 center">
   <div class="mw6 ph3 mb3">
     <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
     <p>{{ .description }}</p>
   </div>
 </div>
-{{ end }}
 <!-- CTA -->
 <div class="mw7 center">
 <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N4V00000IrJowUAF">
@@ -35,7 +34,7 @@
 </div>
 
 
-<!-- Image grid 
+<!-- Image grid -->
 {{ partial "image-grid" . }}
 {{ end }}
 
@@ -45,10 +44,11 @@
   {{ end }}
 </div>
 
-<!-- Full-width image 
+<!-- Full-width image -->
 <img src="{{ .Params.full_image }}" alt="" class="db w-100">
--->
 
 {{ partial "table" .Params.pricing }}
 
 
+
+{{ end }}
