@@ -35,11 +35,10 @@ intro:
     Gather feedback during every customer interaction and drive positive outcomes by using our Salesforce Application.
 
 main:
-  heading: Instant Feedback is available on Salesforce
+  heading: Start a 30-day trial from Salesforce AppExchange
   description: >
-    Instant feedback is built on the latest Lightning Web Component (LWC)
-    technology to ensure a seamless and modern user experience. Instant Feedback
-    is available on Salesforce AppExchange.
+    Each member of your team is assigned a unique feedback link and gets individual feedback by using the link in emails, chat, and support tickets.
+    A Salesforce Site is created to collect the feedback which is linked with the Lead, Contact, and team member. Reports, dashboards and automation           provide needed insights and alerts.
  
 pricing:
   heading: Pricing
